@@ -1,12 +1,11 @@
 # :books: library-management-service
-:man_office_worker: **Team members:** Stephen, Skyler, Juan
 
-A library management service (LMS) application by ***Team SSJ*** *(Super Smoothstack-Jin)*
+A simple library management service (LMS) application with a command-line interface
 
 
 
 ## Implementation
-Our LMS application follows the Data Access Object (DAO) design scheme.
+This LMS application follows the Data Access Object (DAO) design scheme.
 
 ```
 App
