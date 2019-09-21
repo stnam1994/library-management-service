@@ -14,7 +14,7 @@ public class LMSApp {
 	}
 
 	public void start() {
-		System.out.println("=============== Library Management Service by SSJ ===============\n");
+		System.out.println("=============== Library Management Service ===============\n");
 		showTitleMenu();
 		exitApp();
 	}
@@ -54,13 +54,13 @@ public class LMSApp {
 			System.out.println("Please type a valid option number.\n");
 		}
 
-		System.out.println("=================================================================\n");
+		System.out.println("==========================================================\n");
 		showTitleMenu();
 	}
 
 	public void exitApp() {
-		System.out.println("=================================================================\n");
-		System.out.println("Thank you for using our Library Management Service!");
+		System.out.println("==========================================================\n");
+		System.out.println("Thank you for using the Library Management Service!");
 		System.out.println("We hope you have a great day.");
 		scan.close();
 		System.exit(0);
